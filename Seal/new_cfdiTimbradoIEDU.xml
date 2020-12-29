@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:iedu="http://www.sat.gob.mx/iedu" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd http://www.sat.gob.mx/iedu http://www.sat.gob.mx/sitio_internet/cfd/iedu/iedu.xsd http://www.sat.gob.mx/iedu http://www.sat.gob.mx/sitio_internet/cfd/iedu/iedu.xsd" MetodoPago="PUE" TipoDeComprobante="I" Total="4640.00" TipoCambio="1" Moneda="MXN" SubTotal="4000.00" CondicionesDePago="Contado" Sello="bSqpx47mw8IdCYhuCH/BRi71UdKWLpk6M+bCwhdOWM3EOyaLMRYwbPiiin7itELIFL8uXgEF4y6kPisBwqDk22U+OK240K2zJl+FvqP5kQ0/nvRGPoGhGwB89sUSe2buIeFqJOHH++QaZ4AI2kTVTixdlyEad3/G17e2JdIUfkO63LH54m9q0pSoGGy9mVVIrXIoVYTUXNspzfZfgBXgzfQdZarhTqklOb48mSHpZYZp3DY4okLH3VftGsGfyP8W+JlP+Bffb2cwkzflGqgtM7PSs9N1iZ3kPZ34y8KuMjrApezwBHbGf8t2fwkpbFmcDhaF5FtOlRvhgmDk/r6mrg==" NoCertificado="30001000000300023708" FormaPago="01" LugarExpedicion="85040" Fecha="2018-01-30T18:33:40" Folio="12345" Serie="A" Version="3.3" Certificado="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">
+  <cfdi:Emisor Rfc="XAXX010101000" Nombre="EMCORSOFT, SC" RegimenFiscal="601"/>
+  <cfdi:Receptor Rfc="USO110603I26" Nombre="UMBRALL SOFTWARE SA DE CV" UsoCFDI="G01"/>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="998877660011" Cantidad="1.000000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CABLE NUMERO 5" ValorUnitario="4000.000000" Importe="4000.000000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1280.00"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+      <cfdi:ComplementoConcepto>
+        <iedu:instEducativas xsi:schemaLocation="http://www.sat.gob.mx/iedu http://www.sat.gob.mx/sitio_internet/cfd/iedu/iedu.xsd" Version="1.0" NombreAlumno="Nombre del alumno" CURP="ROCA901231HSRRXK44" NivelEducativo="Secundaria" AutRVOE="11222"/>
+      </cfdi:ComplementoConcepto>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="02020202" NoIdentificacion="998877660022" Cantidad="2.000000" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CABLE NUMERO 22" ValorUnitario="8000.000000" Importe="8000.000000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1280.00"/>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+      <cfdi:ComplementoConcepto>
+        <iedu:instEducativas xsi:schemaLocation="http://www.sat.gob.mx/iedu http://www.sat.gob.mx/sitio_internet/cfd/iedu/iedu.xsd" Version="1.0" NombreAlumno="Nombre del alumno" CURP="ROCA901231HSRRXK44" NivelEducativo="Secundaria" AutRVOE="11222"/>
+      </cfdi:ComplementoConcepto>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1920.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1920.00"/>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="B241EBEE-819A-AAAA-AAAA-526444336600" FechaTimbrado="2018-01-30T19:33:40" RfcProvCertif="IAD121214B34" SelloCFD="aXfE8qEVguBnXY4kHa9iWiC+8VFLVJzIiS8UKp/7VO7FytpxLg0Em2wLTRvFWfvIMBtNzxYuLpqo6c5Xd383yfOVpTFTFHF/FEUTt0TL5kWxBkSLb5A2PD3WshOg4FQxezWAXkITsOpFljIwrHoatv31qcBT5vkZJ3S8rCc0HFAGPYsx09fArcLv1xAHhIQ0aQzLJJ2/69kAgVGFKnuzjS5rsx2nVCfIqkG/IF8U7j5uei+lmLPLA/BmuAQRIt4iEvhhd2FxvemJEESBWYp4m2vDer92D68ViET2VMCFmJSFIDiuXsNeVoYcOhSyFfE1ggUp8L4HbUDvFZ/+u+y6eg==" NoCertificadoSAT="20001000000300022323" SelloSAT="EytLGdSR2C3NjLHNu3L9ZKfwqhwqNqRmeuAmMLZcVQlgJfdHjJXES20gQb452DSLSmRToJbFHbbZ2pyJQbcA3fvIRV0VsziMGjGZPyG1OLNIulqWO7qs0CSPvRJy02l5TfsRrLTkjaEfHTD1zj51W6fIJnz5YtERWn+5FN0ISPvWf3Is/h8gzsjnPpkOZsyU+kr8FUBdvKvu8MFMelA5LQHfhbwTUvm/KvTTNO4TOFP4G0CLScZ0evHyR1FiVjd9sOSDiXYifdmgJdVPSsJtCD3L4YEHIWKB+Z4ijkNuslqfmUl3sZTAeDeoosr+sdxjVET4p5wicKhHQkmWqVDfcg=="/>
+  </cfdi:Complemento>
+</cfdi:Comprobante>
